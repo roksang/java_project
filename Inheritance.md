@@ -20,7 +20,7 @@
 
 상속받는다는 것 = 조상클래스를 확장(extend) 하는 것
 
-![Alt text](./example.jpg)
+![Alt text](./7_example.jpg)
 
 > 주의할 점
 > - 멤버만 상속가능 하다. 생성자와 초기화 블럭은 상속되지 않음.
