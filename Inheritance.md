@@ -12,9 +12,11 @@
 ### 1.2 자바에서 상속 구현하기
 새로 작성하고자 하는 클래스의 이름뒤에 키워드 'extends'와 상속받고자 하는 클래스의 이름을 써주면 된다.
 
-> class Child extends Parent{
-> ...
-> }
+<pre><code>
+ class Child extends Parent{
+ ...
+ }
+ </pre></code>
 
 자식클래스인 Child 클래스에 새로운 코드가 추가되어도 부모클래스인 Parent클래스에는 아무 영향을 주지 않는다.
 
