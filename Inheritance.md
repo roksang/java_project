@@ -21,6 +21,7 @@
 상속받는다는 것 = 조상클래스를 확장(extend) 하는 것
 
 
+
 ![Alt text](./7_example.jpg)
 
 
